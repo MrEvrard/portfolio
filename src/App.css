@@ -109,7 +109,11 @@ body {
 }
 
 .banner-image {
+<<<<<<< HEAD
   /*background-image: url(./components/photo.jpg);*/
+=======
+  background-image: url(./components/photo.jpg);
+>>>>>>> fa1e006141ba99847a3f336f3cde4230761eb181
   background-position: center;
   background-size: cover;
   height: 500px;
